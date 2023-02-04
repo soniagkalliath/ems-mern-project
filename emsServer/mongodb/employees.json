@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "63d91e5f5787cd30ec5cec10"
+  },
+  "id": "1",
+  "uname": "Max",
+  "age": "24",
+  "desg": "Developer",
+  "salary": 23000
+},{
+  "_id": {
+    "$oid": "63d91e7b5787cd30ec5cec12"
+  },
+  "id": "2",
+  "uname": "Laisha Fathima",
+  "age": "22",
+  "desg": "Tester",
+  "salary": 18000
+},{
+  "_id": {
+    "$oid": "63d91e9f5787cd30ec5cec14"
+  },
+  "id": "3",
+  "uname": "Neer Patel",
+  "age": "24",
+  "desg": "Developer",
+  "salary": 27000
+},{
+  "_id": {
+    "$oid": "63d91ec05787cd30ec5cec16"
+  },
+  "id": "4",
+  "uname": "Vyom Punjabi",
+  "age": "25",
+  "desg": "Tester",
+  "salary": 20000
+},{
+  "_id": {
+    "$oid": "63ddf03b89d908e3c5801d3d"
+  },
+  "id": "-GSwkoF7B8",
+  "uname": "Marfi Manroe",
+  "age": "23",
+  "desg": "Developer",
+  "salary": 34000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddf30017147db2a0fabef5"
+  },
+  "id": "OV-AjqlL7x",
+  "uname": "Shiv Mathur",
+  "age": "23",
+  "desg": "MERN Developer",
+  "salary": 54000,
+  "__v": 0
+}]
